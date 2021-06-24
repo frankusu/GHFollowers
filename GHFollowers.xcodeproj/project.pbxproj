@@ -12,6 +12,7 @@
 		4E0BFE642682FEFC008E2EB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0BFE632682FEFC008E2EB3 /* Assets.xcassets */; };
 		4E0BFE6F26830AB5008E2EB3 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0BFE6E26830AB5008E2EB3 /* SearchViewController.swift */; };
 		4E0BFE7126830E42008E2EB3 /* FavouriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0BFE7026830E42008E2EB3 /* FavouriteViewController.swift */; };
+		4E0BFE732684586E008E2EB3 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0BFE722684586E008E2EB3 /* GFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4E0BFE682682FEFC008E2EB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E0BFE6E26830AB5008E2EB3 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		4E0BFE7026830E42008E2EB3 /* FavouriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteViewController.swift; sourceTree = "<group>"; };
+		4E0BFE722684586E008E2EB3 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4E0BFE5A2682FEFA008E2EB3 /* AppDelegate.swift */,
 				4E0BFE5C2682FEFA008E2EB3 /* SceneDelegate.swift */,
+				4E0BFE722684586E008E2EB3 /* GFButton.swift */,
 				4E0BFE7026830E42008E2EB3 /* FavouriteViewController.swift */,
 				4E0BFE6E26830AB5008E2EB3 /* SearchViewController.swift */,
 				4E0BFE632682FEFC008E2EB3 /* Assets.xcassets */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E0BFE7126830E42008E2EB3 /* FavouriteViewController.swift in Sources */,
+				4E0BFE732684586E008E2EB3 /* GFButton.swift in Sources */,
 				4E0BFE5B2682FEFA008E2EB3 /* AppDelegate.swift in Sources */,
 				4E0BFE6F26830AB5008E2EB3 /* SearchViewController.swift in Sources */,
 				4E0BFE5D2682FEFA008E2EB3 /* SceneDelegate.swift in Sources */,
